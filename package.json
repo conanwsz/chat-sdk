@@ -1,6 +1,6 @@
 {
   "name": "chat-js-sdk",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "chat-js-sdk",
   "main": "lib/chat.js",
   "directories": {
