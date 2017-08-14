@@ -1,0 +1,10 @@
+{
+  "name": "chat",
+  "description": "chat js sdk",
+  "main": "lib/chat.js",
+  "version": 0.0.1
+  "scripts": [
+    "lib/chat.js"
+  ],
+  "repo": "https://github.com/conanwsz/chat-sdk"
+}

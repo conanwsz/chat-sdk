@@ -1,0 +1,22 @@
+{
+  "name": "chat-js-sdk",
+  "version": "0.0.1",
+  "description": "chat-js-sdk",
+  "main": "lib/chat.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conanwsz/chat-sdk.git"
+  },
+  "author": "Wang Shunzhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conanwsz/chat-sdk/issues"
+  },
+  "homepage": "https://github.com/conanwsz/chat-sdk#readme"
+}
